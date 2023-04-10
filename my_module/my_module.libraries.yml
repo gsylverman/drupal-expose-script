@@ -1,0 +1,5 @@
+# /modules/custom/my_module/my_module.libraries.yml
+my_module_library:
+  version: 1.x
+  js:
+    js/my_script.js: {}

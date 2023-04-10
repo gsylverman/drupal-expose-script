@@ -1,0 +1,9 @@
+# /modules/custom/my_module/my_module.info.yml
+name: My Module
+description: "Custom module for Drupal 9"
+type: module
+core_version_requirement: ^9
+package: Custom
+version: 1.0
+dependencies:
+  - drupal:block
